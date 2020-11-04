@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://MikeTheGuard88:MikeTheGuard88@cluster0.mejk8.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret":"mysecretToken",
+  "githubClientId":"20d9b4acdb555dbc8e2b",
+  "githubSecret":"e9e8fd33758b449070f0fc544709f924bf47e5ca"
+}
